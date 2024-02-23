@@ -1,7 +1,7 @@
 import React from "react";
 import Sidebar from "./_components/sidebar";
 import OrgSidebar from "./_components/org-sidebar";
-import Navbar from "@/app/(dashboard)/_components/navbar";
+import Navbar from "./_components/navbar";
 
 interface DashboardLayoutProps {
   children: React.ReactNode
